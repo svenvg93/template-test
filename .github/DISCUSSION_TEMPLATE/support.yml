@@ -29,7 +29,7 @@ body:
         - Hub
         - Agent
         - Hub & Agent
-    default: 0
+      default: 0
     validations:
       required: true
 
