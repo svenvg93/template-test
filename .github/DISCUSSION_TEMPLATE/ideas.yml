@@ -19,5 +19,10 @@ body:
       description: |
         Describe the solution or feature you'd like. Explain what problem this solves or what value it adds.
         **Important:** Be specific and detailed. Vague requests like "make it better" will be closed.
+      placeholder: |
+        Example:
+        - What is the feature?
+        - What problem does it solve?
+        - How should it work?
     validations:
       required: true
